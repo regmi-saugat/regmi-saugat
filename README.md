@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saugat Regmi</h1>
-<h3 align="center">A tech enthusiast from Nepal</h3>
+<h3 align="center">A tech enthusiast from Nepal.</h3>
 
 - 📫 How to reach me **regmisaugat1602@gmail.com**
 

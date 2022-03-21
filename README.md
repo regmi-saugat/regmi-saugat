@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently exploring **Numpy, Pandas, Matplotlib**
 
-- 🌱 I’m currently learning **Python, Statistics**
+- 🌱 I’m currently learning **Machine Learning, Statistics**
 
 - 👯 I’m looking to collaborate **any data science project**
 

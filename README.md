@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saugat Regmi</h1>
 <h3 align="center">A passionate Data Science Enthusiast</h3>
 
-- 🔭 I’m currently exploring **Numpy, Pandas, scikit-learn**
+- 🔭 I’m currently exploring **Numpy, Pandas, Scikit-Learn**
 
 - 🌱 I’m currently learning **Machine Learning, Statistics**
 

@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Saugat Regmi</h1>
-<h3 align="center">Data Science and ML Enthusiast</h3>
+<h3 align="center">Hi 👋, I'm Saugat Regmi</h3>
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning**
 

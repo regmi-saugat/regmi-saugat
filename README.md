@@ -1,5 +1,7 @@
 <h3 align="center">Hi 👋, I'm Saugat Regmi</h3>
 
+I am a Python loving Data Science and Machine Learning Practitioner and a Life-long learner.
+
 - 🌱 I’m currently learning **Machine Learning, Deep Learning**
 
 - 📫 How to reach me **regmisaugat1602@gmail.com**

@@ -3,7 +3,6 @@
 I am a Python loving Data Science and Machine Learning Practitioner and a Life-long learner.
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning**
-
 - 📫 How to reach me **regmisaugat1602@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

@@ -4,9 +4,9 @@
   
 <h3 align="center">I am a Python loving Data Science and Machine Learning Practitioner and a Life-long learner </h3>
 
-- 🌱 I’m currently learning **Machine Learning**, **SQL**.
+- 🌱 I’m currently learning **Machine Learning**, **SQL**
+-  :dancers: I’m looking forward to collaborate on **Machine Learning** and **Deep Learning**
 - 📫 How to reach me **regmisaugat1602@gmail.com**
--  :dancers: I’m looking forward to collaborate on **Machine Learning** and **Deep Learning**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
